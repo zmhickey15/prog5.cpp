@@ -137,7 +137,7 @@ int main ( )
 
    double operand1,
           operand2;
-
+      
    char   operatr;
 
    ifstream fin;
